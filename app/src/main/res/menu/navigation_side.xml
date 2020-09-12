@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:title="Profile"
+        android:icon="@drawable/profile" />
+
+    <item
+        android:id="@+id/navigation_news"
+        android:title="News"
+        android:icon="@drawable/news" />
+
+    <item
+        android:id="@+id/navigation_info"
+        android:title="Information"
+        android:icon="@drawable/info"/>
+
+    <item
+        android:id="@+id/navigation_logout"
+        android:title="Log Out"
+        android:icon="@drawable/logout"/>
+
+
+</menu>

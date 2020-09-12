@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "262619846852",
+    "firebase_url": "https://negocio-conectar-nc.firebaseio.com",
+    "project_id": "negocio-conectar-nc",
+    "storage_bucket": "negocio-conectar-nc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262619846852:android:244e41763208b7d4",
+        "android_client_info": {
+          "package_name": "com.nc.rockstar.negocioconectar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262619846852-q1l4e3chpac38gav42epunb1hpk9agki.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nc.rockstar.negocioconectar",
+            "certificate_hash": "422d1d8383edd2e0c49158597e2c23aebad3bfed"
+          }
+        },
+        {
+          "client_id": "262619846852-0dcusk4dkectst4pje2f15optt1ib4av.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWzi7PcPGPB81KKtERhPjXEkOpYm5PuFg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262619846852-0dcusk4dkectst4pje2f15optt1ib4av.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
